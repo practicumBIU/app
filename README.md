@@ -1,2 +1,2 @@
 # app
-This app is a tool give advantage to the user in Capsim simulation 
+This app is a tool that give advantage to the user in Capsim simulation 
